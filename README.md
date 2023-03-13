@@ -7,12 +7,6 @@ In this model I used fer2013 dataset The data consists of 48x48 pixel grayscale 
 The number of data in each of the seven classes wasn't particularly close.
 ![image](https://user-images.githubusercontent.com/67710906/224713357-8819a9ce-2d3d-4441-b5ba-bc020081624c.png)
 
-Build DCNN Model
-1
-![image](https://user-images.githubusercontent.com/67710906/224713449-a3fe1a12-51ea-40c2-b013-7b6d21b3217f.png)
-2
-![image](https://user-images.githubusercontent.com/67710906/224713495-bb62840d-5d5b-485d-b14d-c473cb2e59fc.png)
-
 
 With this model, we were able to obtain 78% accuracy
 
